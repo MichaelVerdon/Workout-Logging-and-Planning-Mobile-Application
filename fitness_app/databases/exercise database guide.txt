@@ -1,0 +1,6 @@
+exercise name,
+muscle groups,
+difficulty [1-3 beg, int, adv],
+access level [1-3 home,equip,gym only],
+equipmentlist,
+intensity [1-3] 3 is most intense

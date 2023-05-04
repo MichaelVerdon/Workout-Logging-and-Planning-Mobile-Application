@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.2 104.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="64.1" cy="32.26" r="32.26"/>
+  <path class="cls-1" d="M128.2,104.26H0c0-17.73,28.7-32.11,64.1-32.11s64.1,14.37,64.1,32.11Z"/>
+</svg>
