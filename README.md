@@ -6,7 +6,7 @@ Final year dissertation at UoP.
 
 The goal of this application is to help you log and plan workouts and help you automatically apply progressive overload without knowing how to do it.
 
-# Features
+## Features
 
 - Store User Metrics
 - Activity Level Counting
@@ -15,3 +15,9 @@ The goal of this application is to help you log and plan workouts and help you a
 - Edit Workouts
 - Generate a Workout Split
 - Featured Workouts
+
+## To Do
+
+- Graph Views
+- Fix the history bug
+- Gallery Page
