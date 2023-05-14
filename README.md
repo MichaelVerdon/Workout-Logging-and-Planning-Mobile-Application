@@ -1,6 +1,7 @@
 # Workout-Logging-and-Planning-Mobile-Application
 
 Final year dissertation at UoP.
+Report paper can be found in the root of this repo.
 
 ## Goal
 
